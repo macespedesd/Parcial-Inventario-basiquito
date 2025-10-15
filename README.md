@@ -10,6 +10,7 @@ Para ejecutar el programa:
 ```bash
 ./inventario
 ```
+**Nota:** Asegúrate de que la compilación se realice sin errores antes de ejecutar el programa.
 ## Ejemplos de Uso
 ### Menú Principal
 ```
